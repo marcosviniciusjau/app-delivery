@@ -1,12 +1,9 @@
- # Volante Livre, developed in React Native that uses Mongo DB, the Google Maps and Google OAuth integration which allows you to register a vehicle departure and the arrival!
+ # Esse aplicativo permite a inserção da localização dos entregadores no início e final da entrega!
 
- # 🚘**Key Features:**
- - Do the login with one click by choosing your Google account.
- - Register a vehicle departure with license plate and the purpose with the current location that will be saved on Mongo DB through Realm
- - Register a vehicle arrival after you use the vehicle, with the local being saving on background
- - Cancel a vehicle use if you change mind
+ # 🚘**Funcionalidades:**
+ - Registre a entrega com o nome do doador no sql server e listando as entregas
 
-# Here is a demo video of the project
+# Esse é um vídeo demostrativo:
 
-https://github.com/marcosviniciusjau/ignite-fleet/assets/82465988/2b4320b7-060f-4301-8e3b-8e23f87a613a
+https://github.com/user-attachments/assets/b93457fb-2f06-4ff8-a0e2-f3bc43524c2e
 
